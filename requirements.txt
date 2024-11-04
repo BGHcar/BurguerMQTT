@@ -1,0 +1,12 @@
+beautifulsoup4 #(for parsing HTML)
+rich #(for pretty printing colors)
+requests #(for making sync-only HTTP requests)
+httpx #(for making sync or async HTTP requests)
+aiohttp #(for making async-only HTTP requests)
+
+confluent-kafka
+paho-mqtt
+
+
+fastapi[all] #(for building APIs)
+uvicorn[standard] #(for running FastAPI)
